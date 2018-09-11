@@ -1,0 +1,6 @@
+model_checkpoint_path: "/tmp/elbo-jsb/model.ckpt-10095"
+all_model_checkpoint_paths: "/tmp/elbo-jsb/model.ckpt-7381"
+all_model_checkpoint_paths: "/tmp/elbo-jsb/model.ckpt-8073"
+all_model_checkpoint_paths: "/tmp/elbo-jsb/model.ckpt-8762"
+all_model_checkpoint_paths: "/tmp/elbo-jsb/model.ckpt-9430"
+all_model_checkpoint_paths: "/tmp/elbo-jsb/model.ckpt-10095"
